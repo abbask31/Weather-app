@@ -132,11 +132,3 @@ h6 {
   bottom: 2.5px;
 }
 
-.author a {
-  color: #636363;
-  text-decoration: underline;
-}
-
-.author a:hover {
-  color: #000000;
-}
